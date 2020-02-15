@@ -1,7 +1,7 @@
 
 # Summary Html :
-- **Introduction**:
-1.The book has three parts:
+- **Introduction** :
+1. The book has three parts:
 -  HtML :is used to create web pages.
 - css : enable you to control the styling and layout of web pages.
 2.Different ways in which people access the web and clarify some terminology:
@@ -30,7 +30,7 @@
   (htMl 4 rElEasEd 1997, xhtMl 1.0 rElEasEd 2000,htMl5 rElEasEd 2000)
 
   - DOCTYPES tell browsers which version of HTML you are using .
-- You can add comments to your code between  <!-- and --> markers  .
+- You can add comments to your code between   markers  .
   - The  id and class attributes allow you to identify the particular elements,s known as a **global attribute** because it can be used on any element . 
   - Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
   - Examples of block elements are <h1>, <p>, <ul>, and <li>.
