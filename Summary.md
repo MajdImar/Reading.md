@@ -35,8 +35,9 @@
   - Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
   
   - Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
-  - Examples of inline elements are <a>, <b>, <em>, and <img>.
-- <span> :1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+
+-span :
+1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
 2. Contain a number of inline elements
 
 - The  <div> and <span> elements allow you to group blocklevel and inline elements together.
