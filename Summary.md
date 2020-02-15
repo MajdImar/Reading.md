@@ -19,7 +19,7 @@
 2.Your computer contacts a network of servers called Domain Name System (DNS) server.
 3.The unique number that the DNS server returns to your computer allows your browser to contact the web server that hosts the website you requested.
 4.The web server then sends the page you requested back to your web browser.
-- ** web server** : is a computer that is constantly connected to the web, and is set up especially to send web pages to users.
+- **web server** : is a computer that is constantly connected to the web, and is set up especially to send web pages to users.
 
 
 
