@@ -40,9 +40,9 @@
 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
 2. Contain a number of inline elements
 
-- The  <div> and <span> elements allow you to group blocklevel and inline elements together.
-- <iframes>  cut windows into your web pages through which other pages can be displayed.
-- The   <meta> tag allows you to supply all kinds of information about your web page.
+- The  div and span elements allow you to group blocklevel and inline elements together.
+- iframes  cut windows into your web pages through which other pages can be displayed.
+- The   meta tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
   
 
