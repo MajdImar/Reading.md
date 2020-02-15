@@ -30,10 +30,10 @@
   (htMl 4 rElEasEd 1997, xhtMl 1.0 rElEasEd 2000,htMl5 rElEasEd 2000)
 
   - DOCTYPES tell browsers which version of HTML you are using .
-- You can add comments to your code between   markers  .
+- You can add comments to your code between <!-- and -->  markers  .
   - The  id and class attributes allow you to identify the particular elements,s known as a **global attribute** because it can be used on any element . 
   - Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
-  - Examples of block elements are <h1>, <p>, <ul>, and <li>.
+  
   - Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
   - Examples of inline elements are <a>, <b>, <em>, and <img>.
 - <span> :1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
