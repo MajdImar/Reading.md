@@ -26,16 +26,26 @@
 * attributeS teLL uS more about eLementS :name and a value, separated by an equals sign.
 * Anything written between the <title> tags will appear in the title bar (or tabs) at the top of the browser window.
   - **chapter8** :
-  -DOCTYPES tell browsers which version of HTML you are using .
+  - thE Evolution of htMl :
+  (htMl 4 rElEasEd 1997, xhtMl 1.0 rElEasEd 2000,htMl5 rElEasEd 2000)
+
+  - DOCTYPES tell browsers which version of HTML you are using .
 - You can add comments to your code between  <!-- and --> markers  .
-  - The  id and class attributes allow you to identify the particular elements . 
-- The  <div> and <span> elements allow you to group block-level and inline elements together.
+  - The  id and class attributes allow you to identify the particular elements,s known as a **global attribute** because it can be used on any element . 
+  - Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
+  - Examples of block elements are <h1>, <p>, <ul>, and <li>.
+  - Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+  - Examples of inline elements are <a>, <b>, <em>, and <img>.
+- <span> :1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
+2. Contain a number of inline elements
+
+- The  <div> and <span> elements allow you to group blocklevel and inline elements together.
 - <iframes>  cut windows into your web pages through which other pages can be displayed.
 - The   <meta> tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
   
 
-
+ 
 
 
 
