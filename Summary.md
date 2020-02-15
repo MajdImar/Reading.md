@@ -1,6 +1,6 @@
 
 # Summary Html :
-- Introduction:
+- **Introduction**:
 1.The book has three parts:
 -  HtML :is used to create web pages.
 - css : enable you to control the styling and layout of web pages.
@@ -20,6 +20,14 @@
 3.The unique number that the DNS server returns to your computer allows your browser to contact the web server that hosts the website you requested.
 4.The web server then sends the page you requested back to your web browser.
 - **web server** : is a computer that is constantly connected to the web, and is set up especially to send web pages to users.
+- **chapter1** :
+* HtmL deScribeS tHe Structure of PageS :HTML element tells the browser something about the information that sits between its opening and closing tags.
+* Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
+* attributeS teLL uS more about eLementS :name and a value, separated by an equals sign.
+* Anything written between the <title> tags will appear in the title bar (or tabs) at the top of the browser window.
+  
+
+
 
 
 
