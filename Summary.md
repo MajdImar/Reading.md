@@ -25,6 +25,14 @@
 * Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 * attributeS teLL uS more about eLementS :name and a value, separated by an equals sign.
 * Anything written between the <title> tags will appear in the title bar (or tabs) at the top of the browser window.
+  - **chapter8** :
+  -DOCTYPES tell browsers which version of HTML you are using .
+- You can add comments to your code between  <!-- and --> markers  .
+  - The  id and class attributes allow you to identify the particular elements . 
+- The  <div> and <span> elements allow you to group block-level and inline elements together.
+- <iframes>  cut windows into your web pages through which other pages can be displayed.
+- The   <meta> tag allows you to supply all kinds of information about your web page.
+- Escape characters are used to include special  characters in your pages .
   
 
 
