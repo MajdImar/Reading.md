@@ -44,6 +44,9 @@
 - iframes : cut windows into your web pages through which other pages can be displayed.
 - There are a few attributes that you will need to know to use it:
 (src,height,width)
+- scrolling ,frameborder :attributes will not be supported in HTML5.
+- seamless :in HTML5, a new attribute called seamless can be applied to an iframe where scrollbars are not desired. 
+The meta element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 
 - The   meta tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
