@@ -36,12 +36,15 @@
   
   - Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 
--span :
+- span :
 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
 2. Contain a number of inline elements
 
 - The  div and span elements allow you to group blocklevel and inline elements together.
-- iframes  cut windows into your web pages through which other pages can be displayed.
+- iframes : cut windows into your web pages through which other pages can be displayed.
+- There are a few attributes that you will need to know to use it:
+(src,height,width)
+
 - The   meta tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
   
