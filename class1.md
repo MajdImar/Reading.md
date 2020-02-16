@@ -1,6 +1,6 @@
 
 # Summary Html :
-- **Introduction** :
+- # **Introduction** :
 1. The book has three parts:
 -  HtML :is used to create web pages.
 - css : enable you to control the styling and layout of web pages.
@@ -48,7 +48,7 @@
 The meta element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 - The   meta tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
-- **chapter17 HTML5 Layout** :
+- # **chapter17 HTML5 Layout** :
 - The new HTML5 elements indicate the purpose of different parts of a web page and help to describeits structure.
 - The new elements provide clearer code (compared with using multiple div elements).
 - Older browsers that do not understand HTML5  elements need to be told which elements areblock-level elements.
@@ -75,7 +75,7 @@ The meta element is an empty element so it does not have a closing tag. It uses 
  - Designing navigation :helps people find where they want to go and also helps them understand what your site is about and how it is organized.
 
 
-  - **JS Chapter 1: “The ABC of Programming** :
+  - # **JS Chapter 1: “The ABC of Programming** :
   - JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly.
   - A script : is a series of instructions that the computer can follow,in order to achieve a goal. 
   - To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
