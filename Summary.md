@@ -62,10 +62,19 @@ The meta element is an empty element so it does not have a closing tag. It uses 
 - **chapter18 Process & Design** :
   - It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
   - Site maps allow you to plan the structure of a site.
-  - Wireframes allow you to organize the information that   will need to go on each page.
+  - To help you decide what information should go on each page, you can use a technique called card sorting.
+  - Wireframes allow you to organize the information that   will need to go on each page,It shows the hierarchy of the information and how much space it might require.
+
   - Design is about communication. Visual hierarchy helps   visitors understand what you are trying to tell them.
+  - designer needs to organize and prioritize the information to communicate their message and help users find what they're looking for.
+- Grouping together related content into blocks or chunks makes the page look simpler (and easier to understand). 
   - You can differentiate between pieces of information   using size, color, and style.
   - You can use grouping and similarity to help simplify  the information you present.
+  - Grouping related pieces of information together can make a design easier to comprehend
+ - visual hierarchy refers to the order in which your eyes perceive what they see. It is created by adding visual contrast between the items being displayed. Items with higher contrast are recognized and processed first.
+ - Designing navigation :helps people find where they want to go and also helps them understand what your site is about and how it is organized.
+
+
   - **JS Chapter 1: “The ABC of Programming** :
   - A script : is a series of instructions that the computer can follow in order to achieve a goal. 
  - Each time the script runs, it might only use a subset of all the instructions. 
