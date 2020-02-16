@@ -76,12 +76,24 @@ The meta element is an empty element so it does not have a closing tag. It uses 
 
 
   - **JS Chapter 1: “The ABC of Programming** :
-  - A script : is a series of instructions that the computer can follow in order to achieve a goal. 
+  - JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly.
+  - A script : is a series of instructions that the computer can follow,in order to achieve a goal. 
+  - To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
+   Follow these steps :
+   1: DEFINE THE GOAL  2.2: DESIGN THE SCRIPT 3.3: CODE EACH STEP 
  - Each time the script runs, it might only use a subset of all the instructions. 
-  - Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
-  - To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
+  - Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+  - Computers solve problems programmatically; they follow series of instructions, one after another
+  - To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+  - The flowcharts show the paths between each step.
+  - An event is the computer's way of sticking up its hand to say, "Hey, this just happened!" .
+  - The code for a method can contain lots of instructions that together represent one task. 
+  - Programmers choose which events they respond to. When a specific event happens, that event can be used to trigger a specific section of the code. 
+  - WEB BROWSERS ARE PROGRAMS BUILT USING OBJECTS .
+  - Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
+  - All major browsers use a JavaScript interpreter to translate your instructions (in JavaScript) into instructions the computer can follow. 
   - It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension.
-  - The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). 
+  - The HTML script element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). 
   - If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created. 
   
 
