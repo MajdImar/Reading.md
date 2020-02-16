@@ -48,7 +48,7 @@
 The meta element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 - The   meta tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
-- #**chapter17 HTML5 Layout** :
+- # **chapter17 HTML5 Layout** :
 - The new HTML5 elements indicate the purpose of different parts of a web page and help to describeits structure.
 - The new elements provide clearer code (compared with using multiple div elements).
 - Older browsers that do not understand HTML5  elements need to be told which elements areblock-level elements.
@@ -59,7 +59,7 @@ The meta element is an empty element so it does not have a closing tag. It uses 
 1. When the aside element is used inside an article element, it should contain information that is related to the article but not essential to its overall meaning. 
   2. When the <aside> element is used outside of an article element, it acts as a container for content that is related to the entire page
 - To make HTML5 elements work in Internet Explorer 8(and older versions of IE), extra JavaScript is needed, which is available free from Google.
-- **chapter18 Process & Design** :
+- # **chapter18 Process & Design** :
   - It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
   - Site maps allow you to plan the structure of a site.
   - To help you decide what information should go on each page, you can use a technique called card sorting.
