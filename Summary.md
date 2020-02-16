@@ -28,7 +28,6 @@
   - **chapter8 Extra Markup** :
   - thE Evolution of htMl :
   (htMl 4 rElEasEd 1997, xhtMl 1.0 rElEasEd 2000,htMl5 rElEasEd 2000)
-
   - DOCTYPES tell browsers which version of HTML you are using .
 - You can add comments to your code between <!-- and -->  markers  .
   - The  id and class attributes allow you to identify the particular elements,s known as a **global attribute** because it can be used on any element . 
@@ -57,8 +56,8 @@ The meta element is an empty element so it does not have a closing tag. It uses 
   - Figures : It can be used to contain any content that is referenced from the main flow of an article (not just images). 
   - The figure element should also contain a <figcaption> element which provides a text decription for the content of the figure element. 
   - The aside element has two purposes, depending on whether it is inside an article element or not.
-1. When the aside element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. 
-  2. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page
+1. When the aside element is used inside an article element, it should contain information that is related to the article but not essential to its overall meaning. 
+  2. When the <aside> element is used outside of an article element, it acts as a container for content that is related to the entire page
 - To make HTML5 elements work in Internet Explorer 8(and older versions of IE), extra JavaScript is needed, which is available free from Google.
 - **chapter18 Process & Design** :
   
