@@ -57,6 +57,7 @@
 - Logical operators allow you to combine more than one set of comparison operators.
 - 1. If statement it evaluates a condition, if the condition evaluates to true, any statement in the subsequent code block will be executed.
 - 2. IF Else Statements .
+# The End
  
 
 
