@@ -4,3 +4,4 @@ Here we are going to submit all the read requirmnts for 201 classes.
 Read  | URL
 ----- | ----
 read1 | [Read1](https://majdimar.github.io/Reading.notes/class1)
+reed2 | [read2]()
