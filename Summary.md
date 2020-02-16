@@ -55,10 +55,10 @@ The meta element is an empty element so it does not have a closing tag. It uses 
 - Older browsers that do not understand HTML5  elements need to be told which elements areblock-level elements.
 - hgroup:The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
   - Figures : It can be used to contain any content that is referenced from the main flow of an article (not just images). 
-  - The <figure> element should also contain a <figcaption> element which provides a text decription for the content of the <figure> element. 
-  - The aside element has two purposes, depending on whether it is inside an <article> element or not.
+  - The figure element should also contain a <figcaption> element which provides a text decription for the content of the figure element. 
+  - The aside element has two purposes, depending on whether it is inside an article element or not.
 1. When the aside element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. 
-  2.When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page
+  2. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page
 - To make HTML5 elements work in Internet Explorer 8(and older versions of IE), extra JavaScript is needed, which is available free from Google.
 - **chapter18 Process & Design** :
   
