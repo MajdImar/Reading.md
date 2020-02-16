@@ -1,6 +1,6 @@
 
 # Summary Html :
-- # **Introduction** :
+ # **Introduction** :
 1. The book has three parts:
 -  HtML :is used to create web pages.
 - css : enable you to control the styling and layout of web pages.
@@ -20,12 +20,12 @@
 3.The unique number that the DNS server returns to your computer allows your browser to contact the web server that hosts the website you requested.
 4.The web server then sends the page you requested back to your web browser.
 - **web server** : is a computer that is constantly connected to the web, and is set up especially to send web pages to users.
-- **chapter1 Structure** :
+# **chapter1 Structure** :
 * HtmL deScribeS tHe Structure of PageS :HTML element tells the browser something about the information that sits between its opening and closing tags.
 * Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 * attributeS teLL uS more about eLementS :name and a value, separated by an equals sign.
 * Anything written between the <title> tags will appear in the title bar (or tabs) at the top of the browser window.
-  - **chapter8 Extra Markup** :
+ # **chapter8 Extra Markup** :
   - thE Evolution of htMl :
   (htMl 4 rElEasEd 1997, xhtMl 1.0 rElEasEd 2000,htMl5 rElEasEd 2000)
   - DOCTYPES tell browsers which version of HTML you are using .
@@ -48,7 +48,7 @@
 The meta element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 - The   meta tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
-- # **chapter17 HTML5 Layout** :
+ # **chapter17 HTML5 Layout** :
 - The new HTML5 elements indicate the purpose of different parts of a web page and help to describeits structure.
 - The new elements provide clearer code (compared with using multiple div elements).
 - Older browsers that do not understand HTML5  elements need to be told which elements areblock-level elements.
@@ -75,7 +75,7 @@ The meta element is an empty element so it does not have a closing tag. It uses 
  - Designing navigation :helps people find where they want to go and also helps them understand what your site is about and how it is organized.
 
 
-  - # **JS Chapter 1: “The ABC of Programming** :
+   # **JS Chapter 1: “The ABC of Programming** :
   - JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly.
   - A script : is a series of instructions that the computer can follow,in order to achieve a goal. 
   - To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
