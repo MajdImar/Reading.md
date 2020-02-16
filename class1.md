@@ -93,7 +93,8 @@ The meta element is an empty element so it does not have a closing tag. It uses 
   - Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
   - All major browsers use a JavaScript interpreter to translate your instructions (in JavaScript) into instructions the computer can follow. 
   - It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension.
-  - The HTML script element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). 
+  - The HTML script element is used in HTML pages to tell the browser to load the JavaScript file (rather like the link element can be used to load a CSS file). 
+ - LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE(ou use the HTML script element to tell the browser it is coming across a script) 
   - If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created. 
   
 
