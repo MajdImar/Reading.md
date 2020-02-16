@@ -48,7 +48,7 @@
 The meta element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 - The   meta tag allows you to supply all kinds of information about your web page.
 - Escape characters are used to include special  characters in your pages .
- # **chapter17 HTML5 Layout** :
+- #**chapter17 HTML5 Layout** :
 - The new HTML5 elements indicate the purpose of different parts of a web page and help to describeits structure.
 - The new elements provide clearer code (compared with using multiple div elements).
 - Older browsers that do not understand HTML5  elements need to be told which elements areblock-level elements.
