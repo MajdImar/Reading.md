@@ -24,6 +24,20 @@
 - This property requires three pieces of information:
 1: The URL of the image 2: Where to slice the image 3: What to do with the straight edges; the possible values are: stretch stretches the image repeat repeats the image round like repeat but if the  tiles do not fit exactly, scales  the tile image so they will .
 - The box-shadow property allows you to add a drop shadow around a box.
+# Chapter 4: “Decisions and Loops” :
+- **SWITCH STATEMENTS** :
+- switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match). 
+- **TYPE COERCION & WEAK TYPING** :If you use a data type JavaScript did not expect, it tries to make sense of the operation rather than report an error.  
+- Data types can be coerced from one type to another. 
+1. weak typing 
+2. strong typing. 
+- *NaN is a value that is counted as a number. You may see it when a number is expected, but is not returned, e.g .. ('ten' /2) results in NaN* .
+- Logical operators are processed left to right. They short-circuit (stop) as soon as they have a result - but they return the value that stopped the processing (not necessarily true or fa 1 se). 
+- There are three types of loop: for, while, and do ... while. Each repeats a set of statements. 
+- A for loop is often used to loop through the items in an array. 
+- The key difference between a whi 1 e loop and a do whi 1e  loop is that the statements in the code block come before the condition.
+
+
 
 
 
