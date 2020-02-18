@@ -36,7 +36,7 @@
  - OBJECTS :create models of the world using data.
  - to declare function we give it a name , the return value could br single or multi .
  - Expressions produce a value
- * IMMEDIATELY INVOKED FUNCTION EXPRESSIONS *
+ *IMMEDIATELY INVOKED FUNCTION EXPRESSIONS*
 
   
 
