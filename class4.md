@@ -45,9 +45,20 @@
 • To prevent conflicts between two scripts that might use the same variable names 
 - The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope. 
 - Global variables use more memory .
-# 6 Reasons for Pair Programming
+# 6 Reasons for Pair Programming :
+- Pair programming is an agile software development technique in which two programmers work together at one workstation .
+-  pair programming commonly involves two roles: the Driver and the Navigator .
+- The Driver : is the programmer who is typing the  AND only one whose hands are on the keyboard .
+- he Navigator uses their words to guide the Driver but does not provide any direct input to the computer .
+1. Greater efficiency.
+2.Engaged collaboration.
+3. Learning from fellow students.
+4. Social skills.
+5. Job interview readiness.
+6. Work environment readiness
 
-  
+
+ 
 
 
 
