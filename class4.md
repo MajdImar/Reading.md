@@ -8,7 +8,7 @@
 
 - mailto:<br> To create a link that starts up the user's email program and addresses an email to a specified email address.
 - You can create links to open email programs with an  X email address in the "to" field
-- target : <br> If you want a link to open in a new window, Ex :a href=http://www.imdb.com target="_blank"  .
+- target : <br> If you want a link to open in a new window, Ex ://a href=http://www.imdb.com target="_blank//  .
 - You can use the id attribute to target elements within a page that can be linked to.
 
 
