@@ -12,7 +12,7 @@
 - You can use CSS to control the dimensions of a box .
 1. min-width property specifies the smallest size a box can be displayed at when the browser window is narrow.
 2.  the max-width property indicates the maximum width a box can stretch to when the browser window is wide.
-- overflow :tells the browser what to do if the content contained within <b>a box is larger than the box itself with 2 values : 1.hidden This property simply hides any extra content that does not fit in the box.2.scroll This property adds a scrollbar to the box so that users can scroll to see the missing content.
+- overflow :tells the browser what to do if the content contained within <b> a box is larger than the box itself with 2 values : 1.hidden This property simply hides any extra content that does not fit in the box.2.scroll This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
 
 
