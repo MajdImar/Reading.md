@@ -36,7 +36,16 @@
  - OBJECTS :create models of the world using data.
  - to declare function we give it a name , the return value could br single or multi .
  - Expressions produce a value
- *IMMEDIATELY INVOKED FUNCTION EXPRESSIONS*
+- *IMMEDIATELY INVOKED FUNCTION EXPRESSIONS*
+- This way of writing a function is used in several different situations. Often functions are used to ensure that the variable names do not conflict with each other.
+- WHEN TO USE ANONYMOUS FUNCTIONS AND llFES :
+- **As an argument when a function is called (to calculate a value for that function).** 
+• To assign the value of a property to an object. 
+• In event handlers and listeners to perform a task when an event occurs. 
+• To prevent conflicts between two scripts that might use the same variable names 
+- The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope. 
+- Global variables use more memory .
+# 6 Reasons for Pair Programming
 
   
 
