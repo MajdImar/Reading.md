@@ -50,8 +50,9 @@
 -  pair programming commonly involves two roles: the Driver and the Navigator .
 - The Driver : is the programmer who is typing the  AND only one whose hands are on the keyboard .
 - he Navigator uses their words to guide the Driver but does not provide any direct input to the computer .
+# Why pair program? 
 1. Greater efficiency.
-2.Engaged collaboration.
+2. Engaged collaboration.
 3. Learning from fellow students.
 4. Social skills.
 5. Job interview readiness.
