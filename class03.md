@@ -20,6 +20,10 @@
 - Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
 - Legibility can be improved by controlling the width of  boxes containing text and the leading.
 - CSS3 has introduced the ability to create image borders and rounded borders.
+- The border-image property applies an image to the border of any box. It takes a background image and slices it into nine pieces.
+- This property requires three pieces of information:
+1: The URL of the image 2: Where to slice the image 3: What to do with the straight edges; the possible values are: stretch stretches the image repeat repeats the image round like repeat but if the  tiles do not fit exactly, scales  the tile image so they will .
+
 
 
 
