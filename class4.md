@@ -31,6 +31,12 @@
   - Grids help create professional and flexible designs.
  - CSS Frameworks provide rules for common tasks .
  - You can include multiple CSS files in one page by using' @'import .
+ # JS BOOK Chapter 3 (first part): “Functions, Methods, and Objects ” :
+ - Functions let you group a series of statements together to perform a specific task. 
+ - OBJECTS :create models of the world using data.
+ - to declare function we give it a name , the return value could br single or multi .
+ - Expressions produce a value
+ * IMMEDIATELY INVOKED FUNCTION EXPRESSIONS *
 
   
 
