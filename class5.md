@@ -39,6 +39,10 @@ Colors are represented by predefined names. However, they are very limited in nu
 - If you want to use a wider range of typefaces there are several options, but you need to have the right license to use them.
 - You can control the space between lines of text,  individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
 - You can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.
+- uniTS of Type Size :pixelS , percentageS , emS .
+- @font-face allows you to use a font, even if it is not installed on the computer of the person 
+
+
 
 
 
