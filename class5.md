@@ -19,7 +19,16 @@
 
 - You should save images at the size you will be using   them on the web page and in the appropriate format.
 - Photographs are best saved as JPEGs; illustrations or  logos that use flat colors are better saved as GIFs.
-- 
+# Chapter 11: “Color” :
+- Color not only brings your site to life, but also helps   convey the mood and evokes reactions.
+- There are three ways to specify colors in CSS:RGB values, hex codes, and color names.
+- Color pickers can help you find the color you want.
+- It is important to ensure that there is enough contrast   between any text and the background color .
+- CSS3 has introduced an extra value for RGB colors to   indicate opacity. It is known as RGBA.
+- CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
+
+
+
 
 
 
