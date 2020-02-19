@@ -22,6 +22,14 @@
 # Chapter 11: “Color” :
 - Color not only brings your site to life, but also helps   convey the mood and evokes reactions.
 - There are three ways to specify colors in CSS:RGB values, hex codes, and color names.
+- RGB Values :
+ Values for red, green, and blue are expressed as numbers between 0 and 255.
+ - Hex Codes :
+Hex values represent values for red, green, and blue in hexadecimal code.
+- ColoR Names :
+Colors are represented by predefined names. However, they are very limited in number
+
+
 - Color pickers can help you find the color you want.
 - It is important to ensure that there is enough contrast   between any text and the background color .
 - CSS3 has introduced an extra value for RGB colors to   indicate opacity. It is known as RGBA.
