@@ -42,7 +42,10 @@ Colors are represented by predefined names. However, they are very limited in nu
 - uniTS of Type Size :pixelS , percentageS , emS .
 - @font-face allows you to use a font, even if it is not installed on the computer of the person .
 - The various font formats should appear in your code in this order:
-1. eot 2. woff 3. ttf/otf 4. svg
+1. eot 
+2. woff 
+3. ttf/otf 
+4. svg
 
 
 
