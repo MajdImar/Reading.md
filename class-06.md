@@ -9,9 +9,9 @@
 - Objects group together : a set of variables and functions to create a model of a something you would recognize from the real world.
 -  VARIABLES become PROPERTIES.
 - FUNCTIONS BECOME  METHODS.
-• HTML uses attribute names and values. 
-• CSS uses property names and values. 
-• In JavaScript Variables have a name and you can assign them a value of a string, number, or Boolean.
+ - • HTML uses attribute names and values. 
+- • CSS uses property names and values. 
+- • In JavaScript Variables have a name and you can assign them a value of a string, number, or Boolean.
 # Chapter 5: “Document Object Model” :
 - The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window
 - Accessing and updating the DOM tree involves two steps:
