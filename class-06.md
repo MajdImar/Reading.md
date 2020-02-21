@@ -17,6 +17,8 @@
 - Accessing and updating the DOM tree involves two steps:
 1: Locate the node that represents the element you want to work with.
 2: Use its text content, child elements, and attributes
+- NODELISTS: DOM QUERIES THAT RETURN MORE THAN ONE ELEMENT .
+
 
 - The browser represents the page using a DOM tree.
 - DOM trees have four types of nodes: document nodes, element nodes, attribute nodes, and text nodes.
