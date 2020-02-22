@@ -17,15 +17,11 @@ The Browser Object Model contains objects that represent the current browser win
 The Document Object Model uses objects to create a representation of the current page
 3. GLOBAL JAVASCRIPT OBJECTS :
 The global JavaScript objects represent things that the JavaScript language needs to create a model of.
-- i sNaN () 
-Many calculations involving currency (such as tax rates) will need to be rounded to a specific number of decimal places. 
-DESCRIPTION 
-Checks if the value is not a number 
-Or, in an animation, you might want to specify that certain elements. should be evenly spaced out across the page. 
-toFi xed() Rounds to specified number of decimal places (returns a string) 
-toPreci s i on() Rounds to total number of places (returns a string) 
-toExponen ti a 1 () Returns a string representing the number in exponential notation 
-
+-GLOBAL OBJECTS: STRING OBJECT 
+- Each character in a string is automatically given a number, called an index number.
+- In JavaScript there are six data types: Five of them are described as simple (or primitive) data types. The sixth is the object (and is referred to as a complex data type). 
+- NUMBER OBJECT:
+* (isNaN,toFixed,toPrecision,toExponential )
 
 
 
