@@ -12,3 +12,11 @@
 - To put your site on the web, you will need to obtain a   domain name and web hosting.
 - FTP programs allow you to transfer files from your  local computer to your web server.
 - Many companies provide platforms for blogging, email  newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
+# chapter 9
+## How Flash works:
+- Since the late 1990s, Flash has been a very popular tool for creating animations, and later for playing audio and video in websites.
+- When Flash was first released, it was developed to create animations.
+- Web technologies change quickly. Here you can see some of the changes in how animation, video, and audio are created on the web.
+
+
+
