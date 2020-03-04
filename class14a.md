@@ -9,4 +9,4 @@
 **Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes**
 # 8 simple CSS3 transitions that will wow your users:
 - (Fade in,Change color,3. Grow & Shrink,4. Rotate elements,Square to circle,3D shadow,Swing,Inset border).
-# 6 Buttons animated:
+- then articles about examples 
